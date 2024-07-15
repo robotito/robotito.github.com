@@ -67,11 +67,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Robotito",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "www.robotito.ar"
       },
       "components": [
         {
