@@ -52,7 +52,16 @@
     "imageResize": true,
     "uniqCompNum": 1,
     "versionPublish": "5.9.18",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/20160818-robotito-vectorial-v3-rober-1-240x269-128x143.png",
+    "mbrsiteDomain": "iwfwehngsc",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
