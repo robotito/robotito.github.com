@@ -824,8 +824,6 @@ a {
   text-align: center;
 }
 .cid-tIsj2q7oBw {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
   background-color: #ffaac7;
 }
 .cid-tIsj2q7oBw .mbr-fallback-image.disabled {
@@ -857,15 +855,12 @@ a {
   margin-right: -1rem;
   margin-left: -1rem;
 }
-.cid-tIsj2q7oBw .row {
-  flex-direction: row-reverse;
-}
 .cid-tIsj2q7oBw .image-wrapper {
   padding: 0 0.75rem;
 }
 .cid-tIsj2q7oBw img,
 .cid-tIsj2q7oBw .image-wrapper {
-  height: 600px;
+  height: 700px;
   border-radius: 2rem;
   object-fit: cover;
 }
